@@ -1,0 +1,205 @@
+.site-header {
+  background-color: $white;
+
+  @media #{$md} {
+    position: fixed;
+    padding: $gutter $gutter 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+  }
+}
+.site-title,
+.site-description {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-right: 40px;
+  font-size: $m-fsize;
+  line-height: $m-lh;
+  @media #{$md} {
+    padding-right: 50px;
+    font-size: $fsize;
+    line-height: $lh;
+  }
+}
+
+.site-toggle {
+  position: absolute;
+  top: 36px;
+  right: $m-gutter;
+  padding: 0;
+  background: none;
+  border: 0;
+  font-size: $m-fsize-ko;
+  outline: none;
+  @media #{$md} {
+    top: 50px;
+    right: $gutter;
+    font-size: $fsize-ko;
+  }
+}
+.site-info {
+  margin-top: $m-lh;
+  margin-bottom: 0;
+  @media #{$md} {
+    margin-top: $lh;
+  }
+
+  dd {
+    margin-left: 0;
+  }
+  a {
+    &:hover {
+      &:before {
+        content: '\003e\00a0\00a0'; // >
+      }
+      color: $red;
+    }
+  }
+}
+.site-content {
+  line-height: $m-lh;
+  @media #{$md} {
+    margin-top: 40px;
+    line-height: $lh;
+  }
+
+  h2,
+  h3 {
+    margin-top: $m-lh;
+    margin-bottom: 0;
+
+    @media #{$md} {
+      margin-top: $lh;
+    }
+  }
+
+  h2 + h3 {
+    margin-top: 0;
+  }
+
+  ul {
+    li {
+      @include clearfix;
+    }
+    a,
+    em,
+    strong {
+      display: inline-block;
+      vertical-align: bottom;
+    }
+    a,
+    em {
+      margin-right: -28px;
+      @media #{$md} {
+        margin-right: 0;
+      }
+    }
+
+    em {
+      cursor: not-allowed;
+    }
+    strong {
+      margin-left: 40px;
+      font-size: $m-fsize-ko;
+      font-family: $font-noto;
+      line-height: 22px;
+      @media #{$md} {
+        margin-left: 22px;
+        font-size: $fsize-ko;
+        line-height: 30px;
+      }
+    }
+
+    li {
+      &:hover {
+        color: $red;
+
+        a {
+          &:before {
+            content: '\003e\00a0\00a0'; // >
+          }
+        }
+      }
+    }
+  }
+}
+
+.bg-red {
+  color: $white;
+  &,
+  .site-header {
+    background-color: $red;
+  }
+
+  .site-content ul li:hover,
+  .site-info a:hover {
+    color: $black;
+  }
+}
+
+.bg-blue {
+  color: $white;
+  &,
+  .site-header {
+    background-color: $blue;
+  }
+
+  .site-content ul li:hover,
+  .site-info a:hover {
+    color: $green;
+  }
+}
+
+.bg-black {
+  color: $white;
+  &,
+  .site-header {
+    background-color: $black;
+  }
+
+  .site-content ul li:hover,
+  .site-info a:hover {
+    color: $yellow;
+  }
+}
+
+.bg-green {
+  color: $black;
+  &,
+  .site-header {
+    background-color: $green;
+  }
+
+  .site-content ul li:hover,
+  .site-info a:hover {
+    color: $pink;
+  }
+}
+
+.bg-yellow {
+  color: $black;
+  &,
+  .site-header {
+    background-color: $yellow;
+  }
+
+  .site-content ul li:hover,
+  .site-info a:hover {
+    color: $red;
+  }
+}
+
+.bg-pink {
+  color: $black;
+  &,
+  .site-header {
+    background-color: $pink;
+  }
+
+  .site-content ul li:hover,
+  .site-info a:hover {
+    color: $yellow;
+  }
+}

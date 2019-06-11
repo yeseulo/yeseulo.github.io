@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "ko" }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}</title>
+  {% seo title=false %}
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/favicon/apple-touch-icon.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon/favicon-32x32.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon/favicon-16x16.png" | relative_url }}">
+  <link rel="manifest" href="{{ "/assets/favicon/site.webmanifest" | relative_url }}">
+  <link rel="mask-icon" href="{{ "/assets/favicon/safari-pinned-tab.svg" | relative_url }}" color="#0000ff">
+  <meta name="msapplication-TileColor" content="#0000ff">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
+
+  {%- if jekyll.environment == 'production' and site.google_analytics_id -%}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
+    <script>
+      window['ga-disable-{{ site.google_analytics_id }}'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics_id }}');
+    </script>
+  {%- endif -%}
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function (f, b, e, v, n, t, s) {
+      if (f.fbq) return; n = f.fbq = function () {
+        n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+      n.queue = []; t = b.createElement(e); t.async = !0;
+      t.src = v; s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '378463729686153');
+    fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=378463729686153&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code -->
+</head>
+
+<body>
+  <header class="site-header">
+    <h1 class="site-title"><a rel="author" href="{{ site.url }}">{{ site.title_show | escape }}</a></h1>
+    <button type="button" class="site-toggle" onclick="changeColor()">오예슬</button>
+  </header>
+
+  <main class="site-content" aria-label="Content">
+    <p class="site-description">A developer based in Seoul, South Korea</p>
+    <dl class="site-info">
+      <dt>&nbsp;# email</dt>
+      <dd><a href="mailto:{{site.email}}">{{site.email}}</a></dd>
+    </dl>
+
+    {{ content }}
+  </main>
+</body>
+
+<script>
+  const colorSet = ['basic', 'blue', 'black', 'yellow', 'red', 'green', 'pink'];
+
+  changeColor = () => {
+      let getRandom = Math.floor(Math.random() * colorSet.length);
+      document.body.setAttribute('class', '');
+      document.body.classList.add('bg-' + colorSet[getRandom]);
+  };
+
+  document.addEventListener("DOMContentLoaded", changeColor);
+</script>
+
+</html>

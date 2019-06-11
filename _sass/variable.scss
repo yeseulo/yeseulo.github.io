@@ -1,0 +1,42 @@
+$fsize: 48px;
+$fsize-ko: 16px;
+$m-fsize: 32px;
+$m-fsize-ko: 12px;
+
+$black: #000;
+$white: #fff;
+$blue: #00f;
+$green: #0f0;
+$red: #f00;
+$yellow: #ff0;
+$pink: #f0f;
+
+$gutter: 34px;
+$m-gutter: 24px;
+
+$font: 'OS XOXO', Helvetica, Arial, 'Trebuchet MS', sans-serif;
+$font-noto: 'Noto Sans KR', 'Apple SD Gothic Neo', '맑은 고딕', 'Malgun Gothic',
+  '나눔고딕', sans-serif;
+
+$lh: 40px;
+$m-lh: 28px;
+
+$xxs: 'only screen and (max-width: 480px)';
+$xs: 'only screen and (max-width: 767px)';
+$sm: 'only screen and (min-width: 768px)';
+$md: 'only screen and (min-width: 992px)';
+
+//
+//  # clearfix
+//
+
+@mixin clearfix() {
+  &:before,
+  &:after {
+    content: ' '; // 1
+    display: table; // 2
+  }
+  &:after {
+    clear: both;
+  }
+}
