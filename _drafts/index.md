@@ -6,6 +6,7 @@ image: assets/og-image.png
 ## &nbsp;# Selected projects
 
 ### >&nbsp;&nbsp;2019
+- [graphicmag.co.kr](http://graphicmag.co.kr){: target="_blank"}**propaganda press**
 - [bpjang.cafe24.com](http://bpjang.cafe24.com){: target="_blank"}**시장미감 북평장**
 - [mpyc.kr](https://mpyc.kr){: target="_blank"}**평창대관령음악제**
 - [baconbox.co](https://baconbox.co){: target="_blank"}**베이컨박스**
