@@ -13,7 +13,7 @@ image: assets/og-image.png
 - [deararchitect.kr](https://deararchitect.kr){: target="_blank"}**디어아키텍트**
 
 ### >&nbsp;&nbsp;2018
-- [recordfair.kr](https://recordfair.kr){: target="_blank"}**서울레코드페어**
+- [recordfair.kr](http://recordfair.kr){: target="_blank"}**서울레코드페어**
 - [wasujang.com](http://wasujang.com){: target="_blank"}**시장미감 와수장**
 - [shop.nicepress.kr](https://shop.nicepress.kr){: target="_blank"}**NICESHOP**
 - [happychange.kr](https://happychange.kr){: target="_blank"}**행정안전부 우리 곁에 반가운 변화**
