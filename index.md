@@ -7,6 +7,7 @@ image: assets/og-image.png
 ## &nbsp;# Selected projects
 
 ### >&nbsp;&nbsp;2019
+- [kimchongyung.com](http://kimchongyung.com){: target="_blank"}**김종영 미술관**
 - [graphicmag.co.kr](http://graphicmag.co.kr){: target="_blank"}**propaganda press**
 - [bpjang.cafe24.com](http://bpjang.cafe24.com){: target="_blank"}**시장미감 북평장**
 - [deararchitect.kr](https://deararchitect.kr){:target="_blank"}**디어아키텍트**
@@ -33,7 +34,7 @@ image: assets/og-image.png
 - _gajeong-bangmoon.com_**가정방문**
 
 ### >&nbsp;&nbsp;2014
-- [kimchongyung.com](http://kimchongyung.com){: target="_blank"}**김종영 미술관**
+- _http://kimchongyung.com_**김종영 미술관**
 - [juenjiin.com](http://juenjiin.com){: target="_blank"}**전지인**
 
 ### >&nbsp;&nbsp;2013
