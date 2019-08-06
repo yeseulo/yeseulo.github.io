@@ -34,7 +34,7 @@ image: assets/og-image.png
 - _gajeong-bangmoon.com_**가정방문**
 
 ### >&nbsp;&nbsp;2014
-- _http://kimchongyung.com_**김종영 미술관**
+- _kimchongyung.com_**김종영 미술관**
 - [juenjiin.com](http://juenjiin.com){: target="_blank"}**전지인**
 
 ### >&nbsp;&nbsp;2013
