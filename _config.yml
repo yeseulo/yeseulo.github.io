@@ -44,7 +44,7 @@ sass:
   style: compressed
 
 # Analytics
-google_analytics_id: 'UA-59101955-1'
+google_analytics_id: 'UA-46662809-1'
 
 plugins:
   - jekyll-seo-tag
