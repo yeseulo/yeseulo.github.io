@@ -24,7 +24,7 @@ image: assets/og-image.png
 ### >&nbsp;&nbsp;2017
 - [asiatomorrow.net](https://asiatomorrow.net){: target="_blank"}**아시아투마로우**
 - [fromcare.org](http://fromcare.org){: target="_blank"}**동물권단체 케어**
-- [dmzdocs.com](https://dmzdocs.com){: target="_blank"}**DMZ국제다큐영화제**
+- _dmzdocs.com_**DMZ국제다큐영화제**
 - [ee.kaist.ac.kr](https://ee.kaist.ac.kr){: target="_blank"}**카이스트 전자전기공학부**
 - [trip-curator.co.kr](https://trip-curator.co.kr){: target="_blank"}**트립큐레이터**
 - [ccl.cckorea.org](https://ccl.cckorea.org){: target="_blank"}**CCL 캠페인**
