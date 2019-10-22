@@ -6,6 +6,9 @@ image: assets/og-image.png
 ## &nbsp;# Selected projects
 
 ### >&nbsp;&nbsp;2019
+- [limkim.net](https://limkim.net){: target="_blank"}**LIM KIM**
+- [soeionlee.com](http://soeionlee.com){: target="_blank"}**Soeion Lee**
+- [kimchongyung.com](http://kimchongyung.com){: target="_blank"}**김종영 미술관**
 - [graphicmag.co.kr](http://graphicmag.co.kr){: target="_blank"}**propaganda press**
 - [bpjang.cafe24.com](http://bpjang.cafe24.com){: target="_blank"}**시장미감 북평장**
 - [mpyc.kr](https://mpyc.kr){: target="_blank"}**평창대관령음악제**
