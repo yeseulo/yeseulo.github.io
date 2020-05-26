@@ -45,6 +45,7 @@ sass:
 
 # Analytics
 google_analytics_id: 'UA-46662809-1'
+google_tagmanager_id: 'GTM-5ZXKBSZ'
 
 plugins:
   - jekyll-seo-tag
@@ -55,7 +56,6 @@ social:
   name: YESEUL OH
   links:
     - https://www.facebook.com/yeseulo.kr
-    - https://www.instagram.com/yeseulo.kr
     - https://www.linkedin.com/in/yeseulo
     - https://github.com/yeseulo
 facebook:
