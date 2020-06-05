@@ -7,6 +7,7 @@ image: assets/og-image.png
 ## &nbsp;# Selected projects
 
 ### >&nbsp;&nbsp;2020
+- [a-amp.org](http://a-amp.org){: target="_blank"}**Asian Artist Moving Image Platform**
 - [100films100posters.com](http://100films100posters.com){: target="_blank"}**100 Films 100 Posters**
 
 ### >&nbsp;&nbsp;2019
