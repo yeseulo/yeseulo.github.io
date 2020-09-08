@@ -7,7 +7,7 @@ image: assets/og-image.png
 ## &nbsp;# Selected projects
 
 ### >&nbsp;&nbsp;2020
-- [shinarchitects.com](https://shinarchitects.com){: target="_blank"}**Shin Architects/**
+- [shinarchitects.com](https://shinarchitects.com){: target="_blank"}**Shin Architects**
 - [thefloorplan.net](https://thefloorplan.net){: target="_blank"}**The Floorplan**
 - [a-amp.org](http://a-amp.org){: target="_blank"}**Asian Artist Moving Image Platform**
 - [100films100posters.com](http://100films100posters.com){: target="_blank"}**100 Films 100 Posters**
