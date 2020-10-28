@@ -7,6 +7,7 @@ image: assets/og-image.png
 ## &nbsp;# Selected projects
 
 ### >&nbsp;&nbsp;2020
+- [junglim.info](https://junglim.info/){: target="_blank"}**Junglim People & Works**
 - [shinarchitects.com](https://shinarchitects.com){: target="_blank"}**Shin Architects**
 - [thefloorplan.net](https://thefloorplan.net){: target="_blank"}**The Floorplan**
 - [a-amp.org](http://a-amp.org){: target="_blank"}**Asian Artist Moving Image Platform**
