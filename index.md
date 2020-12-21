@@ -9,6 +9,7 @@ image: assets/og-image.png
 ### >&nbsp;&nbsp;2020
 - [raventower.kr](http://raventower.kr/){: target="_blank"}**까마귀를 구워 만든 탑**
 - [junglim.info](https://junglim.info/){: target="_blank"}**Junglim People & Works**
+- [viewing-room.0000-dddd.com](http://viewing-room.0000-dddd.com/){: target="_blank"}**D Collection: Viewing Room**
 - [shinarchitects.com](https://shinarchitects.com){: target="_blank"}**Shin Architects**
 - [thefloorplan.net](https://thefloorplan.net){: target="_blank"}**The Floorplan**
 - [a-amp.org](http://a-amp.org){: target="_blank"}**Asian Artist Moving Image Platform**
