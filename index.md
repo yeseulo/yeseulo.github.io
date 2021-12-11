@@ -7,10 +7,12 @@ image: assets/og-image.png
 ## &nbsp;# Selected projects
 
 ### >&nbsp;&nbsp;2021
+- [resistances.xyz](http://resistances.xyz/){: target="_blank"}**RESISTANCES**
 - [39etc.com](https://39etc.com/){: target="_blank"}**39etc**
 - [iamindependent.kr](https://iamindependent.kr/){: target="_blank"}**I am Independent**
 - [webuildup.newneek.co](https://webuildup.newneek.co/){: target="_blank"}**WE BUILD UP**
 - [yangbrothersburger.kr](https://yangbrothersburger.kr/){: target="_blank"}**Yang Brothers Burger**
+- [shedding-season.juenjiin.com](https://shedding-season.juenjiin.com/){: target="_blank"}**A Shedding Season** 
 
 ### >&nbsp;&nbsp;2020
 - [raventower.kr](http://raventower.kr/){: target="_blank"}**A tower made of roasted raven**
@@ -31,7 +33,7 @@ image: assets/og-image.png
 
 ### >&nbsp;&nbsp;2018
 - [shop.nicepress.kr](https://shop.nicepress.kr){: target="_blank"}**NICESHOP**
-- [recordfair.kr](http://recordfair.kr){:target="_blank"}**9TH RECORD & CD FAIR IN SEOUL**
+- [recordfair.kr](http://recordfair.kr){:target="_blank"}**RECORD & CD FAIR IN SEOUL**
 - _wasujang.com_**시장미감 와수장**
 
 ### >&nbsp;&nbsp;2017
