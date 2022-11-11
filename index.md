@@ -6,6 +6,9 @@ image: assets/og-image.png
 
 ## &nbsp;# Selected projects
 
+### >&nbsp;&nbsp;2022
+- [unlimited-edition.org](https://unlimited-edition.org/){: target="_blank"}**UE14**
+
 ### >&nbsp;&nbsp;2021
 - [edongshi.org](http://edongshi.org/){: target="_blank"}**Edongshi**
 - [resistances.xyz](http://resistances.xyz/){: target="_blank"}**RESISTANCES**
@@ -13,7 +16,7 @@ image: assets/og-image.png
 - [iamindependent.kr](https://iamindependent.kr/){: target="_blank"}**I am Independent**
 - [webuildup.newneek.co](https://webuildup.newneek.co/){: target="_blank"}**WE BUILD UP**
 - [yangbrothersburger.kr](https://yangbrothersburger.kr/){: target="_blank"}**Yang Brothers Burger**
-- [shedding-season.juenjiin.com](https://shedding-season.juenjiin.com/){: target="_blank"}**A Shedding Season** 
+- _shedding-season.juenjiin.com_**A Shedding Season**
 
 ### >&nbsp;&nbsp;2020
 - [raventower.kr](http://raventower.kr/){: target="_blank"}**A tower made of roasted raven**
@@ -37,7 +40,7 @@ image: assets/og-image.png
 - _wasujang.com_**시장미감 와수장**
 
 ### >&nbsp;&nbsp;2017
-- _asiatomorrow.net_**아시아투마로우**
+- _asiatomorrow.net_**Asia Tomorrow**
 
 ### >&nbsp;&nbsp;2016
 - _dalasil.com_**권진규 미술관**
@@ -49,7 +52,7 @@ image: assets/og-image.png
 
 ### >&nbsp;&nbsp;2014
 - _kimchongyung.com_**KIM CHONG YUNG MUSEUM**
-- [juenjiin.com](http://juenjiin.com){: target="_blank"}**JUEN JIIN**
+- _juenjiin.com_**JUEN JIIN**
 
 ### >&nbsp;&nbsp;2013
 - [hanmin.me](http://hanmin.me){: target="_blank"}**Hanmin Kim**
