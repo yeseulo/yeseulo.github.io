@@ -6,6 +6,9 @@ image: assets/og-image.png
 
 ## &nbsp;# Selected projects
 
+### >&nbsp;&nbsp;2023
+- [webzinelim.com](https://webzinelim.com/){: target="_blank"}**열림원 문학웹진 림**
+
 ### >&nbsp;&nbsp;2022
 - [logoarchive.kr](https://logoarchive.kr/){: target="_blank"}**로고 아카이브 50–60s, 기업 로고의 탄생과 성장**
 - [unlimited-edition.org](https://unlimited-edition.org/){: target="_blank"}**UE14**
