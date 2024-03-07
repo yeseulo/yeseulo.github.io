@@ -9,6 +9,7 @@ image: assets/og-image.png
 ### >&nbsp;&nbsp;2023
 - [orangeslicetype.nl](https://orangeslicetype.nl/){: target="_blank"}**Orange Slice Type**
 - [unlimited-edition.org](https://unlimited-edition.org/){: target="_blank"}**UE15**
+- [theportfolioseoul.com](https://theportfolioseoul.com/){: target="_blank"}**The Portfolio, Seoul**
 - _wanderloch.com_**Wanderloch**
 - [webzinelim.com](https://webzinelim.com/){: target="_blank"}**열림원 문학웹진 림**
 
