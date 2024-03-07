@@ -7,11 +7,14 @@ image: assets/og-image.png
 ## &nbsp;# Selected projects
 
 ### >&nbsp;&nbsp;2023
+- [orangeslicetype.nl](https://orangeslicetype.nl/){: target="_blank"}**Orange Slice Type**
+- [unlimited-edition.org](https://unlimited-edition.org/){: target="_blank"}**UE15**
+- _wanderloch.com_**Wanderloch**
 - [webzinelim.com](https://webzinelim.com/){: target="_blank"}**열림원 문학웹진 림**
 
 ### >&nbsp;&nbsp;2022
 - [logoarchive.kr](https://logoarchive.kr/){: target="_blank"}**로고 아카이브 50–60s, 기업 로고의 탄생과 성장**
-- [unlimited-edition.org](https://unlimited-edition.org/){: target="_blank"}**UE14**
+- _unlimited-edition.org_**UE14**
 
 ### >&nbsp;&nbsp;2021
 - [edongshi.org](http://edongshi.org/){: target="_blank"}**Edongshi**
@@ -33,7 +36,7 @@ image: assets/og-image.png
 
 ### >&nbsp;&nbsp;2019
 - _limkim.net_**LIM KIM**
-- [soeionlee.com](http://soeionlee.com){: target="_blank"}**Soeion Lee**
+- _soeionlee.com_**Soeion Lee**
 - [kimchongyung.com](http://kimchongyung.com){: target="_blank"}**KIM CHONG YUNG MUSEUM**
 - [graphicmag.co.kr](http://graphicmag.co.kr){: target="_blank"}**propaganda press**
 - _deararchitect.kr_**dear. architect**
