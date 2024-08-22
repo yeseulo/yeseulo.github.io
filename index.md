@@ -46,7 +46,7 @@ image: assets/og-image.png
 - _deararchitect.kr_**dear. architect**
 
 ### >&nbsp;&nbsp;2018
-- [shop.nicepress.kr](https://shop.nicepress.kr){: target="_blank"}**NICESHOP**
+- _shop.nicepress.kr_**NICESHOP**
 - _recordfair.kr_**RECORD & CD FAIR IN SEOUL**
 - _wasujang.com_**시장미감 와수장**
 
