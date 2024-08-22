@@ -6,6 +6,9 @@ image: assets/og-image.png
 
 ## &nbsp;# Selected projects
 
+### >&nbsp;&nbsp;2024
+- [gsbf.kr](https://gsbf.kr/){: target="_blank"}**군산북페어**
+
 ### >&nbsp;&nbsp;2023
 - [orangeslicetype.nl](https://orangeslicetype.nl/){: target="_blank"}**Orange Slice Type**
 - [unlimited-edition.org](https://unlimited-edition.org/){: target="_blank"}**UE15**
