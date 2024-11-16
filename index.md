@@ -7,11 +7,12 @@ image: assets/og-image.png
 ## &nbsp;# Selected projects
 
 ### >&nbsp;&nbsp;2024
+- [unlimited-edition.org](https://unlimited-edition.org/){: target="_blank"}**UE16**
 - [gsbf.kr](https://gsbf.kr/){: target="_blank"}**군산북페어**
 
 ### >&nbsp;&nbsp;2023
 - [orangeslicetype.nl](https://orangeslicetype.nl/){: target="_blank"}**Orange Slice Type**
-- [unlimited-edition.org](https://unlimited-edition.org/){: target="_blank"}**UE15**
+- _unlimited-edition.org_**UE15**
 - [theportfolioseoul.com](https://theportfolioseoul.com/){: target="_blank"}**The Portfolio, Seoul**
 - _wanderloch.com_**Wanderloch**
 - [webzinelim.com](https://webzinelim.com/){: target="_blank"}**열림원 문학웹진 림**
@@ -21,8 +22,8 @@ image: assets/og-image.png
 - _unlimited-edition.org_**UE14**
 
 ### >&nbsp;&nbsp;2021
-- [edongshi.org](http://edongshi.org/){: target="_blank"}**Edongshi**
-- [resistances.xyz](http://resistances.xyz/){: target="_blank"}**RESISTANCES**
+- _edongshi.org_**Edongshi**
+- _resistances.xyz_**RESISTANCES**
 - [39etc.com](https://39etc.com/){: target="_blank"}**39etc**
 - [iamindependent.kr](https://iamindependent.kr/){: target="_blank"}**I am Independent**
 - [webuildup.newneek.co](https://webuildup.newneek.co/){: target="_blank"}**WE BUILD UP**
