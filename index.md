@@ -6,9 +6,15 @@ image: assets/og-image.png
 
 ## &nbsp;# Selected projects
 
+### >&nbsp;&nbsp;2025
+- [gsbf.kr](https://gsbf.kr/){: target="_blank"}**군산북페어 2025**
+- [bac.sale](https://bac.sale/){: target="_blank"}**2025 bac. 속초아트페어**
+- [jeonjureview.jeonjufest.kr](https://jeonjureview.jeonjufest.kr/){: target="_blank"}**전주리뷰**
+- [100films100posters.com](https://100films100posters.com/){: target="_blank"}**100 Films 100 Posters**
+
 ### >&nbsp;&nbsp;2024
 - [unlimited-edition.org](https://unlimited-edition.org/){: target="_blank"}**UE16**
-- [gsbf.kr](https://gsbf.kr/){: target="_blank"}**군산북페어**
+- _gsbf.kr_**군산북페어 2024**
 
 ### >&nbsp;&nbsp;2023
 - [orangeslicetype.nl](https://orangeslicetype.nl/){: target="_blank"}**Orange Slice Type**
@@ -37,7 +43,7 @@ image: assets/og-image.png
 - [shinarchitects.com](https://shinarchitects.com){: target="_blank"}**Shin Architects**
 - [thefloorplan.net](https://thefloorplan.net){: target="_blank"}**The Floorplan**
 - [a-amp.org](http://a-amp.org){: target="_blank"}**Asian Artist Moving Image Platform**
-- [100films100posters.com](http://100films100posters.com){: target="_blank"}**100 Films 100 Posters**
+- _100films100posters.com_**100 Films 100 Posters**
 
 ### >&nbsp;&nbsp;2019
 - _limkim.net_**LIM KIM**
