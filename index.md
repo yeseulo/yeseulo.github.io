@@ -11,8 +11,11 @@ image: assets/og-image.png
 - [bac.sale](https://bac.sale/){: target="_blank"}**2025 bac. 속초아트페어**
 - [jeonjureview.jeonjufest.kr](https://jeonjureview.jeonjufest.kr/){: target="_blank"}**전주리뷰**
 - [100films100posters.com](https://100films100posters.com/){: target="_blank"}**100 Films 100 Posters**
+- [can-foundation.org](http://can-foundation.org/){: target="_blank"}**CAN Foundation**
 
 ### >&nbsp;&nbsp;2024
+- [leejuyoung.xyz](https://leejuyoung.xyz/){: target="_blank"}**Lee Juyoung**
+- [umso.work](https://umso.work/){: target="_blank"}**UMSO**
 - [unlimited-edition.org](https://unlimited-edition.org/){: target="_blank"}**UE16**
 - _gsbf.kr_**군산북페어 2024**
 
@@ -33,6 +36,7 @@ image: assets/og-image.png
 - [39etc.com](https://39etc.com/){: target="_blank"}**39etc**
 - [iamindependent.kr](https://iamindependent.kr/){: target="_blank"}**I am Independent**
 - [webuildup.newneek.co](https://webuildup.newneek.co/){: target="_blank"}**WE BUILD UP**
+- _can-foundation.org_**CAN Foundation**
 - [yangbrothersburger.kr](https://yangbrothersburger.kr/){: target="_blank"}**Yang Brothers Burger**
 - _shedding-season.juenjiin.com_**A Shedding Season**
 
