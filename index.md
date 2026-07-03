@@ -6,23 +6,27 @@ image: assets/og-image.png
 
 ## &nbsp;# Selected projects
 
+### >&nbsp;&nbsp;2026
+- [jeonjureview.jeonjufest.kr](https://jeonjureview.jeonjufest.kr/){: target="_blank"}**전주리뷰**
+- [100films100posters.com](https://100films100posters.com/){: target="_blank"}**100 Films 100 Posters**
+
 ### >&nbsp;&nbsp;2025
 - [gsbf.kr](https://gsbf.kr/){: target="_blank"}**군산북페어 2025**
 - [bac.sale](https://bac.sale/){: target="_blank"}**2025 bac. 속초아트페어**
-- [jeonjureview.jeonjufest.kr](https://jeonjureview.jeonjufest.kr/){: target="_blank"}**전주리뷰**
-- [100films100posters.com](https://100films100posters.com/){: target="_blank"}**100 Films 100 Posters**
+- _jeonjureview.jeonjufest.kr_**전주리뷰**
+- _100films100posters.com_**100 Films 100 Posters**
 - [can-foundation.org](http://can-foundation.org/){: target="_blank"}**CAN Foundation**
 
 ### >&nbsp;&nbsp;2024
 - [leejuyoung.xyz](https://leejuyoung.xyz/){: target="_blank"}**Lee Juyoung**
 - [umso.work](https://umso.work/){: target="_blank"}**UMSO**
-- [unlimited-edition.org](https://unlimited-edition.org/){: target="_blank"}**UE16**
+- _unlimited-edition.org_**UE16**
 - _gsbf.kr_**군산북페어 2024**
 
 ### >&nbsp;&nbsp;2023
 - [orangeslicetype.nl](https://orangeslicetype.nl/){: target="_blank"}**Orange Slice Type**
 - _unlimited-edition.org_**UE15**
-- [theportfolioseoul.com](https://theportfolioseoul.com/){: target="_blank"}**The Portfolio, Seoul**
+- _theportfolioseoul.com_**The Portfolio, Seoul**
 - _wanderloch.com_**Wanderloch**
 - [webzinelim.com](https://webzinelim.com/){: target="_blank"}**열림원 문학웹진 림**
 
